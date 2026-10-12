@@ -2,7 +2,7 @@
 
 여러 앱을 함께 쓴다면 멤버십을, 한 앱만 필요하다면 개별 구매·구독을 비교해 보세요. 먼저 원하는 앱이 어떤 기기에서 작동하는지 확인하면 됩니다.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/setapp/)
+[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/setapp/?utm_source=github)
 
 ## 필요한 앱이 몇 개인가요?
 
@@ -31,6 +31,12 @@ Setapp의 앱은 Mac·iPhone·iPad·웹 등 지원 환경이 서로 다릅니다
 2. 앱의 지원 기기와 멤버십 포함 여부를 확인합니다.
 3. 개별 상품과 멤버십의 총액·기기 수·갱신 조건을 비교합니다.
 
+## 체험 종료와 자동 갱신
+
+Membership 체험은 공식 안내상 7일입니다. 결제 수단이 필요할 수 있고, 계속 쓰지 않으려면 계정에서 취소해야 합니다. 약관은 종료 최소 24시간 전 취소를 안내합니다. 앱 삭제는 구독 취소가 아닙니다. 개별 앱 상품의 체험·갱신 조건은 해당 상품에서 확인하세요.
+
+[제휴 안내를 포함한 현재 이용 조건 확인](https://appguideplus.com/ko/setapp/?utm_source=github)
+
 ## 자주 묻는 질문
 
 ### Setapp은 구독만 있나요?
@@ -55,6 +61,11 @@ Setapp의 앱은 Mac·iPhone·iPad·웹 등 지원 환경이 서로 다릅니다
 - [Setapp 이용 방식](https://support.setapp.com/hc/en-us/articles/213269709-What-is-Setapp)
 - [현재 멤버십](https://setapp.com/membership)
 
-내용 확인일: 2026-09-13. GitHub판 편집일: 2026-09-14.
+- [체험과 갱신](https://support.setapp.com/hc/en-us/articles/213576049-Free-trial-period)
+- [취소 시점 약관](https://setapp.com/terms-of-use/2026-02-19)
+
+내용 확인일·GitHub판 편집일: 2026-10-13.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+제휴 안내: 연결된 AppGuide+ 페이지의 제휴 링크로 구매하면 운영자가 수수료를 받을 수 있습니다.
