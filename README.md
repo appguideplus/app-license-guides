@@ -29,7 +29,9 @@ Setapp 구독과 개별 앱 선택, AppSumo 라이선스 등록·환불 확인�
 
 ## 첫 결제와 갱신 비용을 같은 기간으로 비교
 
-[구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)는 두 구독 플랜의 첫 결제·갱신 총액과 개월 수를 비교합니다. 입력한 이용 기간을 채우려면 얼마를 선결제해야 하는지, 결제 기간이 얼마나 남는지 확인하세요.
+[구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)에서 NordVPN Basic·Complete와 Surfshark Starter·One 중 두 상품과 12·27·36개월을 선택하면, 가격 입력 없이 선결제 합계와 비교 기간 뒤 남는 이용 기간을 볼 수 있습니다. 미리 제공하는 가격은 2026-10-23에 확인한 한국 원화 세전 기록이며 실시간 견적은 아닙니다.
+
+Setapp 등 다른 구독 플랜이나 가격은 ‘다른 가격을 직접 입력해 비교’를 열어 첫 결제·갱신 총액과 개월 수를 입력하세요.
 
 Setapp과 개별 앱을 비교할 때에는 먼저 필요한 앱·기기·업데이트 권리를 정하고, 구독 플랜끼리의 금액 비교에 사용하세요. 평생 라이선스나 소유권 가치를 월 구독과 같다고 계산하지 않습니다. [Setapp과 개별 구매 비교](https://appguideplus.com/ko/setapp/?utm_source=github)에서 조건도 함께 확인하세요.
 
