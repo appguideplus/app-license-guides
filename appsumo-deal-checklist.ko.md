@@ -1,14 +1,25 @@
+![AppGuide+ APPS & LICENSES](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # AppSumo 구매한 제품 등록하기: Activate Now와 첫 로그인
 
 구매 내역은 있는데 제품을 어디서 여는지 모르겠다면 AppSumo의 Products에서 시작하세요. 활성화할 계정과 등록 기한을 보고 제품 사이트에 연결하는 순서입니다.
 
-[AppSumo](appsumo.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/appsumo/deal-checklist/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/appsumo/deal-checklist/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 등록 전에 구매한 Deal Terms 확인
 
 구매한 상품의 사용자 수·사용량·등록 기한과 제공 기능을 확인하세요. 같은 제품도 라이선스 단계에 따라 포함된 기능이 다를 수 있습니다.
 
 일회 결제 금액뿐 아니라 추가 사용량 비용과 별도 유료 기능도 확인합니다. 상품 소개의 기대 효과를 자신의 작업에서 검증된 결과로 받아들이지 마세요.
+
+<details>
+<summary><strong>Products에서 제품 활성화</strong></summary>
 
 ## Products에서 제품 활성화
 
@@ -21,6 +32,11 @@
 
 출처: [라이선스 활성화 순서](https://help.appsumo.com/article/107-how-do-i-activate-my-license)
 
+</details>
+
+<details>
+<summary><strong>첫 로그인 뒤 작은 작업 하나 실행</strong></summary>
+
 ## 첫 로그인 뒤 작은 작업 하나 실행
 
 예를 들어 PDF 도구를 샀다면 문서 한 개를 불러와 필요한 형식으로 내보내 보세요. 협업 도구라면 실제로 쓸 좌석 수와 초대 기능을 살펴봅니다.
@@ -29,11 +45,21 @@
 
 출처: [라이선스 활성화 순서](https://help.appsumo.com/article/107-how-do-i-activate-my-license)
 
+</details>
+
+<details>
+<summary><strong>환불 가능 여부와 기한</strong></summary>
+
 ## 환불 가능 여부와 기한
 
 공식 안내는 각 상품의 Deal Terms에서 환불 가능 여부와 기간을 확인하도록 합니다. 디지털 다운로드 등 환불 불가 상품도 있으므로 모든 상품에 같은 기간을 적용하지 마세요.
 
 환불하면 제품 접근을 잃을 수 있습니다. 필요한 자료를 보존하고, 이미 판매가 끝난 상품은 다시 구매하지 못할 수 있다는 점도 고려하세요.
+
+</details>
+
+<details>
+<summary><strong>등록 기한과 환불 기한</strong></summary>
 
 ## 등록 기한과 환불 기한
 
@@ -41,9 +67,19 @@
 
 출처: [상품별 환불 기한과 절차](https://help.appsumo.com/article/33-refund-request) · [라이선스 활성화 순서](https://help.appsumo.com/article/107-how-do-i-activate-my-license)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [앱스모 평생 이용권: AppSumo 라이선스·등록·환불 안내](appsumo.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -54,3 +90,11 @@
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-10-13.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/appsumo/deal-checklist/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

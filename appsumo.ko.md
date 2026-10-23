@@ -1,8 +1,16 @@
+![AppGuide+ APPS & LICENSES](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # 앱스모 평생 이용권: AppSumo 라이선스·등록·환불 안내
 
 AppSumo에서는 소프트웨어 이용권을 상품별 조건으로 판매합니다. lifetime이라는 이름만 보기보다 필요한 기능·좌석·사용량이 포함되는지 비교하세요.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/appsumo/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/appsumo/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 어떤 이용권이 필요한가요?
 
@@ -10,6 +18,9 @@ AppSumo에서는 소프트웨어 이용권을 상품별 조건으로 판매합�
 | --- | --- | --- |
 | 혼자 사용할 때 | 기능과 사용량 | 필수 기능과 월간 처리량이 선택한 상품 단계에 포함되는지 확인하세요. |
 | 팀에서 사용할 때 | 좌석과 확장 조건 | 사용 인원, 코드 추가·등급 변경 조건을 Deal Terms에서 확인하세요. |
+
+<details>
+<summary><strong>핵심 정보</strong></summary>
 
 ## 핵심 정보
 
@@ -19,11 +30,21 @@ AppSumo에서는 소프트웨어 이용권을 상품별 조건으로 판매합�
 | 상품별 조건 | 좌석 · 기능 · 사용량 |
 | 구매 후 | 등록 기한 · 환불 조건 |
 
+</details>
+
+<details>
+<summary><strong>환불 기간 안에 실제 작업으로 확인하세요</strong></summary>
+
 ## 환불 기간 안에 실제 작업으로 확인하세요
 
 Lifetime은 구매자의 평생을 보장한다는 뜻이 아닙니다. 해당 제품이 운영되는 동안의 이용권이며 기능과 한도는 상품 조건에 따릅니다.
 
 구매 후 제품에 등록해야 하는 경우 등록 방법과 기한을 확인하세요. 환불 기간은 상품마다 다르고 환불 불가 상품도 있으므로 모든 거래에 같은 기간을 적용하지 마세요.
+
+</details>
+
+<details>
+<summary><strong>이용 순서</strong></summary>
 
 ## 이용 순서
 
@@ -31,6 +52,11 @@ Lifetime은 구매자의 평생을 보장한다는 뜻이 아닙니다. 해당 �
 2. 필요한 기능·좌석·사용량·등록 기한을 확인합니다.
 3. 환불 가능 여부와 기한을 확인합니다.
 4. 등록 후 실제 작업으로 기능이 맞는지 확인합니다.
+
+</details>
+
+<details>
+<summary><strong>자주 묻는 질문</strong></summary>
 
 ## 자주 묻는 질문
 
@@ -42,13 +68,28 @@ Lifetime은 구매자의 평생을 보장한다는 뜻이 아닙니다. 해당 �
 
 상품별 조건이 다르며 환불 불가 상품도 있습니다. 구매할 상품의 현재 조건을 확인하세요.
 
+</details>
+
+<details>
+<summary><strong>단계별 가이드</strong></summary>
+
 ## 단계별 가이드
 
 - [AppSumo 구매한 제품 등록하기: Activate Now와 첫 로그인](appsumo-deal-checklist.ko.md)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [그린맨게이밍 구매 안내: GMG 게임 키·지역·환불](https://github.com/appguideplus/game-guides/blob/main/green-man-gaming.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -58,3 +99,11 @@ Lifetime은 구매자의 평생을 보장한다는 뜻이 아닙니다. 해당 �
 내용 확인일: 2026-09-13. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/appsumo/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

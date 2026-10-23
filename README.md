@@ -1,37 +1,35 @@
-# 앱 구독과 평생 이용권: Setapp·AppSumo 선택과 등록
+![AppGuide+ 필요한 앱에 맞는 구매 방식](cover.svg)
 
-Setapp 구독과 개별 앱 선택, AppSumo 라이선스 등록·환불 확인을 안내합니다.
+[전체 앱](https://github.com/appguideplus/app-guides#readme) / 필요한 앱에 맞는 구매 방식
 
-## 바로가기
+# 필요한 앱에 맞는 구매 방식
 
-- [AppGuide+ 전체목차](https://github.com/appguideplus/app-guides/blob/main/README.md)
-- [앱별 웹 가이드](https://appguideplus.com/ko/apps/?utm_source=github) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
+Setapp 구독과 개별 앱 구매, AppSumo 이용권을 비교하고 등록하는 방법입니다.
 
-## 서비스별 목차
+**[웹사이트에서 앱 둘러보기 →](https://appguideplus.com/ko/apps/?utm_source=github)** · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
-### Setapp
+## 어디서 시작할까요?
 
-| 서비스 소개 | 단계별 가이드 |
-| --- | --- |
-| [Setapp 구독과 개별 앱 구매: Mac 앱 선택 가이드](setapp.ko.md) | [Setapp 앱과 기기 관리: 새 Mac으로 옮길 때](setapp-devices.ko.md) |
+### 앱스모 평생 이용권
 
-### AppSumo
+**[선택 기준·기능](appsumo.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/appsumo/?utm_source=github)
 
-| 서비스 소개 | 단계별 가이드 |
-| --- | --- |
-| [앱스모 평생 이용권: AppSumo 라이선스·등록·환불 안내](appsumo.ko.md) | [AppSumo 구매한 제품 등록하기: Activate Now와 첫 로그인](appsumo-deal-checklist.ko.md) |
+- [AppSumo 구매한 제품 등록하기: Activate Now와 첫 로그인](appsumo-deal-checklist.ko.md)
 
-## 출처와 업데이트
+### Setapp 구독과 개별 앱 구매
 
-각 글에서 공식 도움말 출처와 내용 확인일을 확인할 수 있습니다. AppGuide+가 작성한 독립 가이드이며 각 서비스의 공식 고객센터는 아닙니다.
+**[선택 기준·기능](setapp.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/setapp/?utm_source=github)
 
-목차 업데이트: 2026-09-15.
+- [Setapp 앱과 기기 관리: 새 Mac으로 옮길 때](setapp-devices.ko.md)
 
-## 첫 결제와 갱신 비용을 같은 기간으로 비교
+## 더 필요한 안내
 
-[구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)에서 NordVPN Basic·Complete와 Surfshark Starter·One 중 두 상품과 12·27·36개월을 선택하면, 가격 입력 없이 선결제 합계와 비교 기간 뒤 남는 이용 기간을 볼 수 있습니다. 미리 제공하는 가격은 2026-10-23에 확인한 한국 원화 세전 기록이며 실시간 견적은 아닙니다.
+- [구독료 비교 계산기](https://appguideplus.com/ko/tools/subscription-cost/?utm_source=github)
 
-Setapp 등 다른 구독 플랜이나 가격은 ‘다른 가격을 직접 입력해 비교’를 열어 첫 결제·갱신 총액과 개월 수를 입력하세요.
+---
 
-Setapp과 개별 앱을 비교할 때에는 먼저 필요한 앱·기기·업데이트 권리를 정하고, 구독 플랜끼리의 금액 비교에 사용하세요. 평생 라이선스나 소유권 가치를 월 구독과 같다고 계산하지 않습니다. [Setapp과 개별 구매 비교](https://appguideplus.com/ko/setapp/?utm_source=github)에서 조건도 함께 확인하세요.
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
 
+각 문서에 공식 출처와 내용 확인일이 있습니다. 요금·쿠폰 조건은 연결된 서비스 화면에서도 확인하세요.
+
+목차 편집: 2026-10-23.
